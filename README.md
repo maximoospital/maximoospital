@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=maximoospita&left_color=black&right_color=grey)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=maximoospita&left_color=black&right_color=grey) [![Repos Badge](https://badges.pufler.dev/repos/maximoospital)](https://badges.pufler.dev)
+
+
 
