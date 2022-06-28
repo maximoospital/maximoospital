@@ -3,6 +3,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maximoospita&left_color=black&right_color=grey)
 
+- 🔭 Recientemente termine [Cheatjockey](https://github.com/maximoospital/cheatjockey) y uso este github para subir mis proyectos de programacion.
+
 - 🔭 Actualmente estoy trabajando en [LightVJ](https://github.com/maximoospital/LightVJ)
 
 - 🌱 Estoy aprendiendo **React y Python**
