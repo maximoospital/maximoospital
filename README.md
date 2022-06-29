@@ -9,6 +9,6 @@
 
 - 🌱 Estoy aprendiendo **React y Python**
 
-- 📫 Me podes encontrar en **https://www.linkedin.com/in/maxospital/**
+- 📫 Me podes encontrar en **https://www.linkedin.com/in/maximoospital/**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximoospital&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
