@@ -3,11 +3,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maximoospita&left_color=black&right_color=grey)
 
-- 🧿 Recientemente termine [Cheatjockey](https://github.com/maximoospital/cheatjockey) y uso este github para subir mis proyectos de programacion.
+- 🧿 Recientemente termine [Convapp](https://github.com/maximoospital/convapp) y uso este github para subir mis proyectos de programacion.
 
-- 🔭 Actualmente estoy trabajando en [LightVJ](https://github.com/maximoospital/LightVJ)
+- 🔭 Actualmente estoy trabajando en [LightVJ](https://github.com/maximoospital/LightVJ) y otros proyectos.
 
-- 🌱 Estoy aprendiendo **React y Python**
+- 🌱 Estoy aprendiendo **React, Flutter y Python**
 
 - 📫 Me podes encontrar en **https://www.linkedin.com/in/maximoospital/**
 
