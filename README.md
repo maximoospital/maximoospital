@@ -1,4 +1,4 @@
-# ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header.png) 
+# ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header2.png) 
 ### Un estudiante de Programacion y aficionado en Diseño y Edicion de Video
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maximoospita&left_color=black&right_color=grey)
