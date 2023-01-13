@@ -5,7 +5,7 @@
 
 - 🧿 Recientemente termine [Convapp](https://github.com/maximoospital/convapp) y uso este github para subir mis proyectos de programacion.
 
-- 🔭 Actualmente estoy trabajando en [LightVJ](https://github.com/maximoospital/LightVJ) y otros proyectos.
+- 🔭 Actualmente estoy trabajando en [Audionotes](https://github.com/maximoospital/audionotes) y otros proyectos.
 
 - 🌱 Estoy aprendiendo **React, Flutter y Python**
 
