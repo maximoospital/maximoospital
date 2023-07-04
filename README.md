@@ -10,5 +10,3 @@
 - 📫 Me podes encontrar en **https://www.linkedin.com/in/maximoospital/**
 
 - 💻 Mi sitio web es [https;//maximoospital.github.io](https://maximoospital.github.io)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximoospital)](https://github.com/anuraghazra/github-readme-stats)
