@@ -1,12 +1,11 @@
-# ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header2.png) 
-### Un estudiante de Programacion y aficionado en Diseño y Edicion de Video
+# ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header.png) 
 
-- 🧿 Recientemente termine [Convapp](https://github.com/maximoospital/convapp) y uso este github para subir mis proyectos de programacion.
+- 🧿 Recently finished [fanCMS](https://github.com/maximoospital/fanCMS)
 
-- 🔭 Actualmente estoy trabajando en [Audionotes](https://github.com/maximoospital/audionotes) y otros proyectos.
+- 🔭 Currently working in [GitDumb](https://github.com/maximoospital/gitdumb) and various other projects.
 
-- 🌱 Estoy aprendiendo **React, Flutter y Python**
+- 🌱 Learning **Node, Flutter and Python**.
+- 
+- 📫 You can find me at [**https://www.linkedin.com/in/maximoospital/**](https://linkedin.com/in/maximoospital)
 
-- 📫 Me podes encontrar en **https://www.linkedin.com/in/maximoospital/**
-
-- 💻 Mi sitio web es [https;//maximoospital.github.io](https://maximoospital.github.io)
+- 💻 Visit my website! [https;//maximoospital.xyz](https://maximoospital.xyz)
