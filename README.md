@@ -2,7 +2,7 @@
 
 - 🧿 Recently finished [GitDumb](https://github.com/maximoospital/gitdumb)
 
-- 🔭 Currently working in [Maxi's Steam Remote Play Launcher](https://github.com/maximoospital/remoteplaylauncher) and various other projects.
+- 🔭 Currently working in [Maxi's Steam Remote Play Launcher](https://github.com/maximoospital/MSRemotePlayLauncher) and various other projects.
 
 - 🌱 Learning **Node, Flutter and Python**.
 
