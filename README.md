@@ -1,8 +1,8 @@
 # ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header.png) 
 
-- 🧿 Recently finished [GitDumb](https://github.com/maximoospital/gitdumb)
+- 🧿 Recently finished [Maxi's Remote Play Launcher](https://github.com/maximoospital/MSRemotePlayLauncher)
 
-- 🔭 Currently working in [Maxi's Steam Remote Play Launcher](https://github.com/maximoospital/MSRemotePlayLauncher) and various other projects.
+- 🔭 Currently working in [MGCC](https://github.com/maximoospital/MGCC) and various other projects.
 
 - 🌱 Learning **Node, Flutter and Python**.
 
