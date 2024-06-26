@@ -2,7 +2,7 @@
 
 - 🧿 Recently finished [Maxi's Remote Play Launcher](https://github.com/maximoospital/MSRemotePlayLauncher)
 
-- 🔭 Currently working in [MGCC](https://github.com/maximoospital/MGCC) and various other projects.
+- 🔭 Currently working in [MunGatCC](https://github.com/maximoospital/MunGatCC) and various other projects.
 
 - 🌱 Learning **Node, Flutter and Python**.
 
