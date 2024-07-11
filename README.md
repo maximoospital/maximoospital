@@ -1,8 +1,8 @@
 # ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header.png) 
 
-- 🧿 Recently finished [A new update for my website](https://github.com/maximoospital/maximoospital.github.io)
+- 🧿 Recently finished [Updating GitDumb](https://github.com/maximoospital/gitdumb) and [n2e](https://github.com/maximoospital/n2e)
 
-- 🔭 Currently working in [remaking Cheatjockey](https://github.com/maximoospital/Cheatjockey) and various other projects.
+- 🔭 Currently working in [remaking Cheatjockey](https://github.com/maximoospital/Cheatjockey2) and various other projects.
 
 - 🌱 Learning **Node, Flutter and Python**.
 
