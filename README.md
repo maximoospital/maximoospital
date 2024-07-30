@@ -1,10 +1,10 @@
 # ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header.png) 
 
-- 🧿 Recently finished [Updating GitDumb](https://github.com/maximoospital/gitdumb) and [n2e](https://github.com/maximoospital/n2e)
+- 🧿 Recently finished [Devtest](https://github.com/maximoospital/devtest-mospital) and [Devtest 2](github.com/maximoospital/devtest2-mospital)
 
 - 🔭 Currently working in [remaking Cheatjockey](https://github.com/maximoospital/Cheatjockey2) and various other projects.
 
-- 🌱 Learning **Node, Flutter and Python**.
+- 🌱 Learning **Node, C#, Flutter and Python**.
 
 - 📫 You can find me at [**https://www.linkedin.com/in/maximoospital/**](https://linkedin.com/in/maximoospital)
 
