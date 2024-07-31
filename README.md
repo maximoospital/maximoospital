@@ -1,6 +1,6 @@
 # ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header.png) 
 
-- 🧿 Recently finished [Devtest](https://github.com/maximoospital/devtest-mospital) and [Devtest 2](github.com/maximoospital/devtest2-mospital)
+- 🧿 Recently finished [menstrualcalc-demo](https://github.com/maximoospital/menstrualcalc-demo)
 
 - 🔭 Currently working in [remaking Cheatjockey](https://github.com/maximoospital/Cheatjockey2) and various other projects.
 
