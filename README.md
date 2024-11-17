@@ -1,6 +1,6 @@
 # ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header.png) 
 
-- 🧿 Recently finished [menstrualcalc-demo](https://github.com/maximoospital/menstrualcalc-demo)
+- 🧿 Recently finished [cornutron3000](https://github.com/maximoospital/cornutron3000)
 
 - 🔭 Currently working in [remaking Cheatjockey](https://github.com/maximoospital/Cheatjockey2) and various other projects.
 
