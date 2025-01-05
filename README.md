@@ -1,10 +1,10 @@
 # ![header](https://raw.githubusercontent.com/maximoospital/maximoospital/main/header.png) 
 
-- 🧿 Recently finished [cornutron3000](https://github.com/maximoospital/cornutron3000)
+- 🧿 Recently finished [flandertron3000](https://github.com/maximoospital/flandertron3000)
 
-- 🔭 Currently working in [remaking Cheatjockey](https://github.com/maximoospital/Cheatjockey2) and various other projects.
+- 🔭 Currently working in [reactron3000](https://github.com/maximoospital/reactron3000) and an unannounced large social media project.
 
-- 🌱 Learning **Node, C#, Flutter and Python**.
+- 🌱 Learning **JavaScript, Go, Flutter and Python**.
 
 - 📫 You can find me at [**https://www.linkedin.com/in/maximoospital/**](https://linkedin.com/in/maximoospital)
 
